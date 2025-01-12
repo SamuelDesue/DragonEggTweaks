@@ -1,0 +1,4 @@
+name: Dragonegg
+version: '1.0-SNAPSHOT'
+main: org.dragonegg.Dragonegg
+api-version: '1.21'
